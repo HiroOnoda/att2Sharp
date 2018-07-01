@@ -1,0 +1,72 @@
+ node:
+x = 0;
+y = 0;
+name = Node1;
+numNode = 1;
+edge: 
+numNode = 2;
+color = ;
+edge:
+numNode = 3;
+color = ;
+ node:
+x = 100;
+y = 0;
+name = Node2;
+numNode = 2;
+edge:
+numNode = 1;
+color = ;
+edge: 
+numNode = 3;
+color = ;
+ node:
+x = 50;
+y = 50;
+name = Node3;
+numNode = 3;
+edge: 
+numNode = 1;
+color = ;
+edge:
+numNode = 2;
+color = ;
+edge:
+numNode = 4;
+color = ;
+edge: 
+numNode = 5;
+color = ;
+ node:
+x = 0;
+y = 100;
+name = Node4;
+numNode = 4;
+edge:
+numNode = 3;
+color = ;
+edge: 
+numNode = 5;
+color = ;
+ node:
+x = 100;
+y = 100;
+name = Node5;
+numNode = 5;
+edge:
+numNode = 3;
+color = ;
+edge:
+numNode = 4;
+color = ;
+edge:
+numNode = 6;
+color = ;
+ node:
+x = 150;
+y = 100;
+name = Node6;
+numNode = 6;
+edge:
+numNode = 5;
+color = ;

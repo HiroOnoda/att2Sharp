@@ -1,0 +1,5 @@
+F:\repos\Queue\bin\Debug\Queue.exe
+F:\repos\Queue\bin\Debug\Queue.pdb
+F:\repos\Queue\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\repos\Queue\obj\x86\Debug\Queue.exe
+F:\repos\Queue\obj\x86\Debug\Queue.pdb

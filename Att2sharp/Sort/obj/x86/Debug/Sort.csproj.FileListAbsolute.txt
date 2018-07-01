@@ -1,0 +1,5 @@
+F:\repos\Att2sharp\Sort\bin\Debug\Sort.exe
+F:\repos\Att2sharp\Sort\bin\Debug\Sort.pdb
+F:\repos\Att2sharp\Sort\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\repos\Att2sharp\Sort\obj\x86\Debug\Sort.exe
+F:\repos\Att2sharp\Sort\obj\x86\Debug\Sort.pdb

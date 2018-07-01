@@ -1,0 +1,88 @@
+D:\Документы\C#\Book\Ch 12 Деревья\Tree Parser\Tree Parser\bin\Debug\Tree Parser.exe
+D:\Документы\C#\Book\Ch 12 Деревья\Tree Parser\Tree Parser\bin\Debug\Tree Parser.pdb
+D:\Документы\C#\Book\Ch 12 Деревья\Tree Parser\Tree Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Документы\C#\Book\Ch 12 Деревья\Tree Parser\Tree Parser\obj\x86\Debug\Tree_Parser.FormMain.resources
+D:\Документы\C#\Book\Ch 12 Деревья\Tree Parser\Tree Parser\obj\x86\Debug\Tree_Parser.Properties.Resources.resources
+D:\Документы\C#\Book\Ch 12 Деревья\Tree Parser\Tree Parser\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Документы\C#\Book\Ch 12 Деревья\Tree Parser\Tree Parser\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Документы\C#\Book\Ch 12 Деревья\Tree Parser\Tree Parser\obj\x86\Debug\Tree Parser.exe
+D:\Документы\C#\Book\Ch 12 Деревья\Tree Parser\Tree Parser\obj\x86\Debug\Tree Parser.pdb
+D:\Документы\C#\Book\Ch 12 Деревья\Простое выражение\Tree Parser\obj\x86\Debug\Tree Parser.exe
+D:\Документы\C#\Book\Ch 12 Деревья\Простое выражение\Tree Parser\obj\x86\Debug\Tree Parser.pdb
+D:\Документы\C#\Book\Ch 12 Деревья\Простое выражение\Tree Parser\bin\Debug\Tree Parser.exe
+D:\Документы\C#\Book\Ch 12 Деревья\Простое выражение\Tree Parser\bin\Debug\Tree Parser.pdb
+D:\Документы\C#\Book\Ch 12 Деревья\Простое выражение\Tree Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Документы\C#\Book\Ch 12 Деревья\Простое выражение\Tree Parser\obj\x86\Debug\Tree_Parser.FormMain.resources
+D:\Документы\C#\Book\Ch 12 Деревья\Простое выражение\Tree Parser\obj\x86\Debug\Tree_Parser.Properties.Resources.resources
+D:\Документы\C#\Book\Ch 12 Деревья\Простое выражение\Tree Parser\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Документы\C#\Book\Ch 12 Деревья\Простое выражение\Tree Parser\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Лекции\1 Курс\АиСД C#\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.exe
+L:\Лекции\1 Курс\АиСД C#\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.pdb
+L:\Лекции\1 Курс\АиСД C#\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\bin\Debug\Tree Parser.exe
+L:\Лекции\1 Курс\АиСД C#\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\bin\Debug\Tree Parser.pdb
+L:\Лекции\1 Курс\АиСД C#\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Лекции\1 Курс\АиСД C#\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree_Parser.FormMain.resources
+L:\Лекции\1 Курс\АиСД C#\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree_Parser.Properties.Resources.resources
+L:\Лекции\1 Курс\АиСД C#\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Лекции\1 Курс\АиСД C#\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Документы\Лекции\АиСД C#\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.exe
+F:\Документы\Лекции\АиСД C#\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.pdb
+F:\Документы\Лекции\АиСД C#\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\bin\Debug\Tree Parser.exe
+F:\Документы\Лекции\АиСД C#\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\bin\Debug\Tree Parser.pdb
+F:\Документы\Лекции\АиСД C#\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Документы\Лекции\АиСД C#\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree_Parser.FormMain.resources
+F:\Документы\Лекции\АиСД C#\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree_Parser.Properties.Resources.resources
+F:\Документы\Лекции\АиСД C#\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Документы\Лекции\АиСД C#\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Лекции\1 Курс\АиСД C#\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.exe
+L:\Лекции\1 Курс\АиСД C#\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.pdb
+L:\Лекции\1 Курс\АиСД C#\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\bin\Debug\Tree Parser.exe
+L:\Лекции\1 Курс\АиСД C#\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\bin\Debug\Tree Parser.pdb
+L:\Лекции\1 Курс\АиСД C#\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Лекции\1 Курс\АиСД C#\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree_Parser.FormMain.resources
+L:\Лекции\1 Курс\АиСД C#\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree_Parser.Properties.Resources.resources
+L:\Лекции\1 Курс\АиСД C#\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Лекции\1 Курс\АиСД C#\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Лекции\1 Курс\АиСД C#\2015\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.exe
+L:\Лекции\1 Курс\АиСД C#\2015\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.pdb
+L:\Лекции\1 Курс\АиСД C#\2015\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\bin\Debug\Tree Parser.exe
+L:\Лекции\1 Курс\АиСД C#\2015\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\bin\Debug\Tree Parser.pdb
+L:\Лекции\1 Курс\АиСД C#\2015\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Лекции\1 Курс\АиСД C#\2015\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree_Parser.FormMain.resources
+L:\Лекции\1 Курс\АиСД C#\2015\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree_Parser.Properties.Resources.resources
+L:\Лекции\1 Курс\АиСД C#\2015\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Лекции\1 Курс\АиСД C#\2015\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Лекции\1 Курс\АиСД C#\2015\Лекция 5 Частично упорядоченное\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.exe
+L:\Лекции\1 Курс\АиСД C#\2015\Лекция 5 Частично упорядоченное\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.pdb
+L:\Лекции\1 Курс\АиСД C#\2015\Лекция 5 Частично упорядоченное\Простое выражение (Windows)\Tree Parser\bin\Debug\Tree Parser.exe
+L:\Лекции\1 Курс\АиСД C#\2015\Лекция 5 Частично упорядоченное\Простое выражение (Windows)\Tree Parser\bin\Debug\Tree Parser.pdb
+L:\Лекции\1 Курс\АиСД C#\2015\Лекция 5 Частично упорядоченное\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Лекции\1 Курс\АиСД C#\2015\Лекция 5 Частично упорядоченное\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree_Parser.FormMain.resources
+L:\Лекции\1 Курс\АиСД C#\2015\Лекция 5 Частично упорядоченное\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree_Parser.Properties.Resources.resources
+L:\Лекции\1 Курс\АиСД C#\2015\Лекция 5 Частично упорядоченное\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Лекции\1 Курс\АиСД C#\2015\Лекция 5 Частично упорядоченное\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Лекции\1 Курс\АиСД C#\2017\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.exe
+L:\Лекции\1 Курс\АиСД C#\2017\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.pdb
+L:\Лекции\1 Курс\АиСД C#\2017\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\bin\Debug\Tree Parser.exe
+L:\Лекции\1 Курс\АиСД C#\2017\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\bin\Debug\Tree Parser.pdb
+L:\Лекции\1 Курс\АиСД C#\2017\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree_Parser.FormMain.resources
+L:\Лекции\1 Курс\АиСД C#\2017\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree_Parser.Properties.Resources.resources
+L:\Лекции\1 Курс\АиСД C#\2017\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.csproj.GenerateResource.Cache
+L:\Лекции\1 Курс\АиСД C#\2017\Лекция 6 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.csprojResolveAssemblyReference.cache
+L:\Лекции\1 Курс\АиСД C#\2018\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.exe
+L:\Лекции\1 Курс\АиСД C#\2018\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.pdb
+L:\Лекции\1 Курс\АиСД C#\2018\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\bin\Debug\Tree Parser.exe
+L:\Лекции\1 Курс\АиСД C#\2018\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\bin\Debug\Tree Parser.pdb
+L:\Лекции\1 Курс\АиСД C#\2018\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.csprojResolveAssemblyReference.cache
+L:\Лекции\1 Курс\АиСД C#\2018\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree_Parser.FormMain.resources
+L:\Лекции\1 Курс\АиСД C#\2018\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree_Parser.Properties.Resources.resources
+L:\Лекции\1 Курс\АиСД C#\2018\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C#\2 семестр\2018\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\bin\Debug\Tree Parser.exe
+C:\Users\User\Desktop\C#\2 семестр\2018\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\bin\Debug\Tree Parser.pdb
+C:\Users\User\Desktop\C#\2 семестр\2018\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#\2 семестр\2018\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree_Parser.FormMain.resources
+C:\Users\User\Desktop\C#\2 семестр\2018\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree_Parser.Properties.Resources.resources
+C:\Users\User\Desktop\C#\2 семестр\2018\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\2 семестр\2018\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\2 семестр\2018\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.exe
+C:\Users\User\Desktop\C#\2 семестр\2018\Лекция 5 Интепретатор\Простое выражение (Windows)\Tree Parser\obj\x86\Debug\Tree Parser.pdb

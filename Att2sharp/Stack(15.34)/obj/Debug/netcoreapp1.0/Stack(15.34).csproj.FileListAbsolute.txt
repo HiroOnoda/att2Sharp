@@ -1,0 +1,4 @@
+I:\repos\Stack(15.34)\obj\Debug\netcoreapp1.0\Stack(15.34).csprojResolveAssemblyReference.cache
+I:\repos\Stack(15.34)\obj\Debug\netcoreapp1.0\Stack(15.34).csproj.CoreCompileInputs.cache
+I:\repos\Stack(15.34)\obj\Debug\netcoreapp1.0\Stack(15.34).AssemblyInfoInputs.cache
+I:\repos\Stack(15.34)\obj\Debug\netcoreapp1.0\Stack(15.34).AssemblyInfo.cs

@@ -1,0 +1,33 @@
+C:\Users\User\source\repos\Stack(15.34)\bin\Debug\netcoreapp2.0\Stack(15.34).deps.json
+C:\Users\User\source\repos\Stack(15.34)\bin\Debug\netcoreapp2.0\Stack(15.34).runtimeconfig.json
+C:\Users\User\source\repos\Stack(15.34)\bin\Debug\netcoreapp2.0\Stack(15.34).runtimeconfig.dev.json
+C:\Users\User\source\repos\Stack(15.34)\bin\Debug\netcoreapp2.0\Stack(15.34).dll
+C:\Users\User\source\repos\Stack(15.34)\bin\Debug\netcoreapp2.0\Stack(15.34).pdb
+C:\Users\User\source\repos\Stack(15.34)\obj\Debug\netcoreapp2.0\Stack(15.34).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Stack(15.34)\obj\Debug\netcoreapp2.0\Stack(15.34).AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Stack(15.34)\obj\Debug\netcoreapp2.0\Stack(15.34).AssemblyInfo.cs
+C:\Users\User\source\repos\Stack(15.34)\obj\Debug\netcoreapp2.0\Stack(15.34).dll
+C:\Users\User\source\repos\Stack(15.34)\obj\Debug\netcoreapp2.0\Stack(15.34).pdb
+C:\Users\User\source\repos\Stack(15.34)\obj\Debug\netcoreapp2.0\Stack(15.34).csprojResolveAssemblyReference.cache
+I:\repos\Stack(15.34)\bin\Debug\netcoreapp2.0\Stack(15.34).deps.json
+I:\repos\Stack(15.34)\bin\Debug\netcoreapp2.0\Stack(15.34).runtimeconfig.json
+I:\repos\Stack(15.34)\bin\Debug\netcoreapp2.0\Stack(15.34).runtimeconfig.dev.json
+I:\repos\Stack(15.34)\bin\Debug\netcoreapp2.0\Stack(15.34).dll
+I:\repos\Stack(15.34)\bin\Debug\netcoreapp2.0\Stack(15.34).pdb
+I:\repos\Stack(15.34)\obj\Debug\netcoreapp2.0\Stack(15.34).csprojResolveAssemblyReference.cache
+I:\repos\Stack(15.34)\obj\Debug\netcoreapp2.0\Stack(15.34).csproj.CoreCompileInputs.cache
+I:\repos\Stack(15.34)\obj\Debug\netcoreapp2.0\Stack(15.34).AssemblyInfoInputs.cache
+I:\repos\Stack(15.34)\obj\Debug\netcoreapp2.0\Stack(15.34).AssemblyInfo.cs
+I:\repos\Stack(15.34)\obj\Debug\netcoreapp2.0\Stack(15.34).dll
+I:\repos\Stack(15.34)\obj\Debug\netcoreapp2.0\Stack(15.34).pdb
+C:\Users\User\Desktop\C#\2 семестр\Att2sharp\Stack(15.34)\bin\Debug\netcoreapp2.0\Stack(15.34).deps.json
+C:\Users\User\Desktop\C#\2 семестр\Att2sharp\Stack(15.34)\bin\Debug\netcoreapp2.0\Stack(15.34).runtimeconfig.json
+C:\Users\User\Desktop\C#\2 семестр\Att2sharp\Stack(15.34)\bin\Debug\netcoreapp2.0\Stack(15.34).runtimeconfig.dev.json
+C:\Users\User\Desktop\C#\2 семестр\Att2sharp\Stack(15.34)\bin\Debug\netcoreapp2.0\Stack(15.34).dll
+C:\Users\User\Desktop\C#\2 семестр\Att2sharp\Stack(15.34)\bin\Debug\netcoreapp2.0\Stack(15.34).pdb
+C:\Users\User\Desktop\C#\2 семестр\Att2sharp\Stack(15.34)\obj\Debug\netcoreapp2.0\Stack(15.34).csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#\2 семестр\Att2sharp\Stack(15.34)\obj\Debug\netcoreapp2.0\Stack(15.34).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\2 семестр\Att2sharp\Stack(15.34)\obj\Debug\netcoreapp2.0\Stack(15.34).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\2 семестр\Att2sharp\Stack(15.34)\obj\Debug\netcoreapp2.0\Stack(15.34).AssemblyInfo.cs
+C:\Users\User\Desktop\C#\2 семестр\Att2sharp\Stack(15.34)\obj\Debug\netcoreapp2.0\Stack(15.34).dll
+C:\Users\User\Desktop\C#\2 семестр\Att2sharp\Stack(15.34)\obj\Debug\netcoreapp2.0\Stack(15.34).pdb

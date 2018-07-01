@@ -1,0 +1,3 @@
+﻿"Sort.exe" (CLR v4.0.30319: DefaultDomain). Загружено "C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Sort.exe" (CLR v4.0.30319: DefaultDomain). Загружено "I:\repos\Att2sharp\Sort\bin\Debug\Sort.exe". Символы загружены.
+Программа "[12540] Sort.exe" завершилась с кодом -1073741510 (0xc000013a).

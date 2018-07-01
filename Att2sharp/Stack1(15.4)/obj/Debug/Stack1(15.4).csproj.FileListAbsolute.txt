@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Stack1(15.4)\bin\Debug\Stack1(15.4).exe.config
+C:\Users\User\source\repos\Stack1(15.4)\bin\Debug\Stack1(15.4).exe
+C:\Users\User\source\repos\Stack1(15.4)\bin\Debug\Stack1(15.4).pdb
+C:\Users\User\source\repos\Stack1(15.4)\obj\Debug\Stack1(15.4).csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Stack1(15.4)\obj\Debug\Stack1_15._4_.Form1.resources
+C:\Users\User\source\repos\Stack1(15.4)\obj\Debug\Stack1_15._4_.Properties.Resources.resources
+C:\Users\User\source\repos\Stack1(15.4)\obj\Debug\Stack1(15.4).csproj.GenerateResource.cache
+C:\Users\User\source\repos\Stack1(15.4)\obj\Debug\Stack1(15.4).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Stack1(15.4)\obj\Debug\Stack1(15.4).exe
+C:\Users\User\source\repos\Stack1(15.4)\obj\Debug\Stack1(15.4).pdb

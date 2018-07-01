@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Interp1(17.4)\bin\Debug\Interp1(17.4).exe.config
+C:\Users\User\source\repos\Interp1(17.4)\bin\Debug\Interp1(17.4).exe
+C:\Users\User\source\repos\Interp1(17.4)\bin\Debug\Interp1(17.4).pdb
+C:\Users\User\source\repos\Interp1(17.4)\obj\Debug\Interp1(18.4).csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Interp1(17.4)\obj\Debug\Interp1_17._4_.Form1.resources
+C:\Users\User\source\repos\Interp1(17.4)\obj\Debug\Interp1_17._4_.Properties.Resources.resources
+C:\Users\User\source\repos\Interp1(17.4)\obj\Debug\Interp1(18.4).csproj.GenerateResource.cache
+C:\Users\User\source\repos\Interp1(17.4)\obj\Debug\Interp1(18.4).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Interp1(17.4)\obj\Debug\Interp1(17.4).exe
+C:\Users\User\source\repos\Interp1(17.4)\obj\Debug\Interp1(17.4).pdb
